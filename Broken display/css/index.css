@@ -11,14 +11,4 @@ body{
     background-position: center;
     background-position: 50% 50%;
   }
-  h1 {
-    position: absolute;
-    top: 47%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: #fff;
-    font-family: "Arial";
-    text-transform: uppercase;
-    opacity: .2;
-    font-size: 70px;
-  }
+  
